@@ -7,7 +7,7 @@ cap = cv2.VideoCapture(0)
 cap.set(3,640)
 cap.set(4,480)
  
-with open('myDataFile.text') as f:
+with open('myDataFile.txt') as f:
     myDataList = f.read().splitlines()
  
 while True:
