@@ -1,5 +1,5 @@
 streamlit
 opencv-python-headless
 numpy
-zbar
+python3-zbar
 pyzbar
