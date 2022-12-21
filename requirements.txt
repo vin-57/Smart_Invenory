@@ -1,11 +1,5 @@
 streamlit
 opencv-python-headless
 numpy
-pyzbar
-libgl1
 libzbar0
-libzbar-dev
-libsm6
-libxrender1
-libfontconfig1
-libice6
+pyzbar
